@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Pooja-Ranpura/my-app/static/css/main.1f860df6.chunk.css",
-    "main.js": "/Pooja-Ranpura/my-app/static/js/main.9b013b55.chunk.js",
-    "main.js.map": "/Pooja-Ranpura/my-app/static/js/main.9b013b55.chunk.js.map",
-    "runtime-main.js": "/Pooja-Ranpura/my-app/static/js/runtime-main.c25ded94.js",
-    "runtime-main.js.map": "/Pooja-Ranpura/my-app/static/js/runtime-main.c25ded94.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/Pooja-Ranpura/my-app/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.54583389.chunk.js": "/Pooja-Ranpura/my-app/static/js/2.54583389.chunk.js",
-    "static/js/2.54583389.chunk.js.map": "/Pooja-Ranpura/my-app/static/js/2.54583389.chunk.js.map",
-    "static/js/3.63402147.chunk.js": "/Pooja-Ranpura/my-app/static/js/3.63402147.chunk.js",
-    "static/js/3.63402147.chunk.js.map": "/Pooja-Ranpura/my-app/static/js/3.63402147.chunk.js.map",
-    "index.html": "/Pooja-Ranpura/my-app/index.html",
-    "static/css/2.6d7c7915.chunk.css.map": "/Pooja-Ranpura/my-app/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.1f860df6.chunk.css.map": "/Pooja-Ranpura/my-app/static/css/main.1f860df6.chunk.css.map",
-    "static/js/2.54583389.chunk.js.LICENSE.txt": "/Pooja-Ranpura/my-app/static/js/2.54583389.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Pooja-Ranpura/my-app/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/my-app/static/css/main.a0c4220c.chunk.css",
+    "main.js": "/my-app/static/js/main.9b013b55.chunk.js",
+    "main.js.map": "/my-app/static/js/main.9b013b55.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.18bd35da.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.18bd35da.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/my-app/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.54583389.chunk.js": "/my-app/static/js/2.54583389.chunk.js",
+    "static/js/2.54583389.chunk.js.map": "/my-app/static/js/2.54583389.chunk.js.map",
+    "static/js/3.63402147.chunk.js": "/my-app/static/js/3.63402147.chunk.js",
+    "static/js/3.63402147.chunk.js.map": "/my-app/static/js/3.63402147.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/my-app/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.a0c4220c.chunk.css.map": "/my-app/static/css/main.a0c4220c.chunk.css.map",
+    "static/js/2.54583389.chunk.js.LICENSE.txt": "/my-app/static/js/2.54583389.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-app/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c25ded94.js",
+    "static/js/runtime-main.18bd35da.js",
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.54583389.chunk.js",
-    "static/css/main.1f860df6.chunk.css",
+    "static/css/main.a0c4220c.chunk.css",
     "static/js/main.9b013b55.chunk.js"
   ]
 }
